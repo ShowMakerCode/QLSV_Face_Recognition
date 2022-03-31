@@ -1,0 +1,29 @@
+
+.imgfooter{
+    height: 300px;
+    width: 100%;
+    background: black;
+    position: absolute;
+}
+
+.imgfirst{
+    position: absolute;
+    top: -2px;
+    left: 60px;
+
+}
+
+.containerHDSD{
+width: 100%;    
+background: black;
+text-align: center;
+}
+
+.Dangnhap{
+    padding: 30px 0 20px 0;
+}
+.Dangnhap :first-child{
+padding-top: 60px;
+padding-bottom: 30px;
+}
+    
